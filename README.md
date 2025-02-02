@@ -36,6 +36,6 @@ I’m **Gyanada Muvvala**, a passionate **Full-Stack Developer** and **AI Enthus
 ## 🤝 Let’s Connect!  
 
 📧 **Email:** muvvalagyanada@gmail.com  
-🔗 **LinkedIn:** [Gyanada Muvvala](www.linkedin.com/in/gyanada-muvvala-868874270)  
+🔗 **LinkedIn:** [Gyanada Muvvala](https://www.linkedin.com/in/gyanada-muvvala-868874270/)  
 
 Let’s build, innovate, and shape the future of technology together! 🚀💡
